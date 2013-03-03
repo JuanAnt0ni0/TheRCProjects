@@ -1,0 +1,15 @@
+{
+    "name": "The RC Projects",
+    "description": "The RC Projects, Dominic Republic",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "RC Projects",
+        "Dominic Republic"
+    ],
+    "homepage": "http://www.thercprojects.com/",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.*",
+	"doctrine/doctrine-orm-module": "*"
+    }
+}
